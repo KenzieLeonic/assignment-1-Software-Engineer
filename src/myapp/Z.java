@@ -2,6 +2,6 @@ package myapp;
 
 public class Z {
     public static void main(String[] args) {
-        System.out.println("Last mull in Z class.");
+        System.out.println("Update Z in my app");
     }
 }
